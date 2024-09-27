@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miguel Serrano
 - 👀 I’m interested in all things technology
 - 🌱 I’m currently learning how to program the Raspberry Pi Pico
-- 📫 You can reach me at maserranox@gmail.com
+- 📫 You can reach me at ...
 - ⚡ Fun fact: I make my own soap
